@@ -65,9 +65,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrix-test&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41&hide=prs,issues&custom_title=Test%20Coverage%20Dashboard&card_width=800" width="80%" />
-</div>
 
 ---
 
